@@ -18,11 +18,11 @@ The dataset spans <b>October 2017 - January 2018</b> and includes:
 
 <h3><b>Key Insights</b></h3>
 <b>Activity & Mood Correlation:</b> Higher step counts often align with happier moods, while lower activity levels correlate with sadness.
-
+<p></p>
 <b>Calorie Burn Patterns:</b> Active days significantly increase calories burned, particularly on days with >5,000 steps.
-
+<p></p>
 <b>Sleep Impact:</b> Sleep hours range from 4 to 8, but low sleep days tend to coincide with reduced activity and calories burned.
-
+<p></p>
 <b>Inactive Days:</b> The majority of the recorded days are inactive, suggesting scope for behavioral change interventions.
 
 <h3><b>Objective</b></h3>
